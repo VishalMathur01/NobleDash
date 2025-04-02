@@ -35,7 +35,7 @@ streamlit run app.py
 This project scrapes Nobel Prize data from [Wikipedia](https://en.wikipedia.org/wiki/List_of_Nobel_laureates).
 
 ## Deployment
-[Click here to access the deployed dashboard](#)
+[Click here to access the deployed dashboard](https://nobledash.streamlit.app/)
 
 ## Future Improvements
 - Add filtering options by country, category, and decade
